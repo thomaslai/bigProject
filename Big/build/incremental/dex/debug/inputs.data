@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370732949170 697 9e93b6b7538fb398babbe5acb5b0d0ec2a9611d6 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R.class
+1370732949167 394 40b36f2413049e68aeed98285ee18c0a551d10c3 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$menu.class
+1370732949165 413 750068e0f89db3d2e7b8ca20189838f07e875268 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$drawable.class
+1370732949169 437 222315afa90862a634f8e1f7024af0664023b399 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$style.class
+1370732949159 821 f2e5294086c5307baed92db7fe52146997491489 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\MainActivity.class
+1370732949165 399 21162ebfc4f5f2e3ee5ec778f8d24ce6b8430dc2 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$id.class
+1370732949166 409 6409c577f845f36bf0a31c27ed7e5f4583b23317 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$layout.class
+1370732949163 346 3ed6c019b6eb02cd079c9b90cb4a23238623e662 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$attr.class
+1370732902946 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\libs\android-support-v4.jar
+1370732949168 478 d3c9f8e7926664e36a1bea1bb2380be5dbf5e4a1 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$string.class
+1370732949164 467 39200a0b4be0e0c888e636f85286d9d70c858070 C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\R$dimen.class
+1370732949171 349 68e1cab4e89b446f732b2a64e585135d615122fa C:\Users\Thomas\AndroidStudioProjects\BigProject\Big\build\classes\debug\com\lousy\bigproject\BuildConfig.class

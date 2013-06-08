@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Big/Big.iml" filepath="$PROJECT_DIR$/Big/Big.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigProject.iml" filepath="$PROJECT_DIR$/BigProject.iml" />
+    </modules>
+  </component>
+</project>
+
